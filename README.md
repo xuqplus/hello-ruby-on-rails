@@ -1,3 +1,9 @@
+#### controller demo
+rails generate/g controller hello  
+edit hello_controller.rb + create index.html.erb, index2.text.erb  
+
+
+
 #### ruby 3.0 + gem 3.2.3 + rails 6.1.0 in docker container Debian GNU/Linux 10
 ```
 base image ruby:3
